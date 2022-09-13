@@ -1,1 +1,3 @@
 # FiveM
+
+Server Template
